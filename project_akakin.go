@@ -17,4 +17,6 @@ func main() {
 // prepare house for my wife and children, let them come in safe
     
     fmt.Println("one two three, zenitushka ))")	
+    
+   // i can run if necessary but doesnt see any value in it, lets build Gamma instead
 }
