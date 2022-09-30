@@ -12,4 +12,6 @@ func main() {
 // perhaps i will be alone for the show
     fmt.Println("GO !)!")	
 // prepare house for my wife and children, let them come in safe
+    
+    fmt.Println("one two three, zenitushka, sosi )")	
 }
